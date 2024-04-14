@@ -8,7 +8,7 @@ html {
 
 body{
     font-family: 'Lato', sans-serif;
-    color: #888;
+    color: #82b8ff;;
     margin: 0;
 }
 
@@ -37,6 +37,6 @@ body{
 }
 
 @keyframes type{
-	  from{box-shadow: inset -3px 0px 0px #888;}
+	  from{box-shadow: inset -3px 0px 0px #0059cd;}
 	  to{box-shadow: inset -3px 0px 0px transparent;}
 }
