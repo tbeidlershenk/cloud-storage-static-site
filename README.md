@@ -4,4 +4,4 @@
 34.102.144.197
 
 **Link to website:** 
-https://34.95.110.0/index.html
+https://34.102.144.197/index.html
